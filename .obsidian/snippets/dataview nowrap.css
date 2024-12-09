@@ -1,0 +1,86 @@
+/* .no-wrap .dataview.table-view-table > tbody > tr > td a {
+    display: block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+} */
+
+/* Rendi tutte le celle a capo automatico */
+.no-wrap .table-view-table > tbody > tr > td {
+    text-align: left;
+    border: none;
+    font-weight: 400;
+	// font-size: 15px;
+    max-width: 400px; /* Imposta la larghezza massima per limitare l'andata a capo */
+    white-space: nowrap; /* Permetti l'andata a capo */
+    overflow-wrap: break-word; /* Spezza le parole lunghe */
+    white-space: nowrap; /* Spezza le parole troppo lunghe */
+}
+
+
+/* Applica nowrap alla prima colonna ossia del titolo */
+.no-wrap .table-view-table > tbody > tr > td:nth-child(1) {
+	max-width: 1000px; /* Imposta la larghezza massima per limitare l'andata a capo */
+    white-space: nowrap;
+}
+
+
+
+/* .dataview.table-view-table :is(td, th) {
+  border: 1px solid;
+} 
+
+.dataview.table-view-table th {
+  border-bottom: 3px solid;  
+} */
+
+
+
+/*
+ * ========================================================
+ * PREVIEW MODE
+ * ========================================================
+ */
+
+/* Center tables on the page */
+.markdown-preview-view table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Color odd and even rows */
+.markdown-preview-view th {
+      background-color: var(--background-secondary-alt);
+}
+.markdown-preview-view tr:nth-child(odd) {
+      background-color: var(--background-primary);
+}
+.markdown-preview-view tr:nth-child(even) {
+      background-color: var(--background-secondary);
+}
+
+/*
+ * ========================================================
+ * LIVE PREVIEW MODE
+ * ========================================================
+ */
+
+/* Center tables on the page */
+.markdown-rendered table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Color odd and even rows */
+.markdown-rendered th {
+      background-color: var(--background-secondary-alt);
+}
+.markdown-rendered tr:nth-child(odd) {
+      background-color: var(--background-primary);
+}
+.markdown-rendered tr:nth-child(even) {
+      background-color: var(--background-secondary);
+}
+
+
+

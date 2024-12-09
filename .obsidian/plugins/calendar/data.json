@@ -1,0 +1,10 @@
+{
+  "shouldConfirmBeforeCreate": true,
+  "weekStart": "locale",
+  "wordsPerDot": 250,
+  "showWeeklyNote": true,
+  "weeklyNoteFormat": "[Weekly Review] YYYY-[W]W",
+  "weeklyNoteTemplate": "3. Resources/Templates/Page - Journal Weekly",
+  "weeklyNoteFolder": "2. Areas/Journal/Weekly",
+  "localeOverride": "system-default"
+}

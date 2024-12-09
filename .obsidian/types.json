@@ -1,0 +1,25 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "currently": "number",
+    "target": "number",
+    "area": "multitext",
+    "created": "date",
+    "deadline": "date",
+    "week": "number",
+    "quarter": "number",
+    "month": "number",
+    "year": "number",
+    "pages": "number",
+    "pages-read": "number",
+    "genres": "multitext",
+    "director": "multitext",
+    "onlineRating": "number",
+    "actors": "multitext",
+    "streamingServices": "multitext",
+    "seasonWatch": "number",
+    "episodeWatch": "number"
+  }
+}

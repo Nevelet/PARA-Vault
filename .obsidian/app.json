@@ -1,1 +1,36 @@
-{}
+{
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "0. Inbox",
+  "attachmentFolderPath": "3. Resources/Attachments",
+  "alwaysUpdateLinks": true,
+  "mobileToolbarCommands": [
+    "editor:toggle-keyboard",
+    "editor:insert-wikilink",
+    "templater-obsidian:insert-templater",
+    "editor:insert-tag",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:insert-link",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:toggle-checklist-status",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:swap-line-up",
+    "editor:swap-line-down",
+    "editor:undo",
+    "editor:redo",
+    "editor:fold-all",
+    "editor:unfold-all",
+    "editor:configure-toolbar"
+  ],
+  "userIgnoreFilters": [
+    "3. Resources/Class/"
+  ]
+}

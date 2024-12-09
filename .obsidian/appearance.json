@@ -1,1 +1,13 @@
-{}
+{
+  "cssTheme": "AnuPpuccin",
+  "accentColor": "",
+  "theme": "obsidian",
+  "baseFontSizeAction": true,
+  "baseFontSize": 17,
+  "enabledCssSnippets": [
+    "cards",
+    "dataview nowrap",
+    "wide page",
+    "checkbox"
+  ]
+}
