@@ -10,7 +10,7 @@ excludes:
 extends: 
 savedViews: []
 favoriteView: 
-version: "2.103"
+version: "2.107"
 fields:
   - name: deadline
     type: Date
@@ -41,22 +41,10 @@ fields:
       valuesFromDVQuery: ""
     path: ""
     id: VSaTaI
-  - name: goal-outcome
-    type: MultiFile
-    options:
-      dvQueryString: dv.pages('#goal/outcome')
-    path: ""
-    id: RLNeoO
-  - name: goal-value
-    type: MultiFile
-    options:
-      dvQueryString: dv.pages('#goal/value')
-    path: ""
-    id: yqkTHN
   - name: area
     type: MultiFile
     options:
-      dvQueryString: dv.pages('#area')
+      dvQueryString: dv.pages('#area').where(p => !p.file.path.includes("Templates"))
     path: ""
     id: PDZ2rs
   - name: period
@@ -73,8 +61,6 @@ fields:
 fieldsOrder:
   - 2FIjTx
   - PDZ2rs
-  - yqkTHN
-  - RLNeoO
   - VSaTaI
   - 8w9KRl
   - cKItaK

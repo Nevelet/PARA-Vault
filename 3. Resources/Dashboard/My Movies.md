@@ -32,6 +32,7 @@ actions:
 TABLE  WITHOUT ID 
 	choice(image, ("![coverimg|100](" + image + ")"), ![[no cover image.png|100]]) as Cover,
 	file.link AS Film, year AS Year, genres AS Genre, 
+	"Status: " + status AS Status,
 	"Titolo Italiano: " + italianTitle AS "Titolo Italiano",
 	"Online Rating: " + onlineRating AS "Online Rating", 
 	"Personal Rating: " + personalRating AS "Personal Rating", 
@@ -44,6 +45,7 @@ FROM #source/movie/film
 WHERE !contains(file.path, "Templates")
 
 SORT genres ASC
+SORT status ASC
 ```
 
 ## Serie Tv
@@ -69,6 +71,7 @@ actions:
 TABLE WITHOUT ID 
 	choice(image, ("![coverimg|100](" + image + ")"), ![[no cover image.png|100]]) as Cover, 
 	file.link AS Film, year AS Year, genres AS Genre, 
+	"Status: " + status AS Status,
 	"Online Rating: " + onlineRating AS "Online Rating", 
 	"Personal Rating: " + personalRating AS "Personal Rating",  
 	"Season to Watch: " + seasonWatch AS "Season to Watch",

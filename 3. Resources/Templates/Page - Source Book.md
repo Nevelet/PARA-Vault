@@ -7,7 +7,8 @@ title:
 year: 
 URL: 
 author: 
-pages: 
+  - <%await tp.system.prompt("Autore")%>
+pages: <%await tp.system.prompt("Pagine totali")%>
 pages-read: 
 image: 
 onlineRating: 

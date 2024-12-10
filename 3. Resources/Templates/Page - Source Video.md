@@ -1,17 +1,3 @@
----
-created: <%tp.date.now("YYYY-MM-DD")%>
-URL: 
-author: 
-tags:
-  - source/video
-status: Write
-area:
----
-Links:: [[My Sources]]
-
----
-<%tp.file.include('[[Heading - Notes]]')%>
-
 <%* 
 let title = tp.file.title
 let renameNote
@@ -24,7 +10,29 @@ if(title == "Untitled"){
 	tR+ await tp.file.move("/3. Resources/Sources/Video/" + renameNote)
 }
 
+let URL = await tp.system.prompt("URL")
+
 -%>
+---
+created: <%tp.date.now("YYYY-MM-DD")%>
+URL: <%URL%>
+author: 
+  - <%await tp.system.prompt("Autore")%>
+tags:
+  - source/video
+status: Write
+---
+Links:: [[My Sources]]
+
+---
+
+![<%renameNote%>](<%URL%>)
+
+<%tp.file.include('[[Heading - Notes]]')%>
+
+
+
+
 
 
 <%tp.file.include('[[Heading - Highlights]]')%>

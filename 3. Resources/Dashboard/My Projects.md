@@ -38,8 +38,7 @@ FROM #project AND "1. Projects"
 
 WHERE 
 	!contains(file.path, "Templates") AND
-	!contains(status, "Done") AND
-	!contains(status, "Idea")
+	contains(status, "Active")
 
 // SORT choice(deadline, deadline, "") ASC
 
@@ -60,14 +59,10 @@ TABLE WITHOUT ID
 FROM #project 
 
 WHERE 
-	contains(file.path, "4. Archived/Projects Future") OR
-	contains(file.path, "4. Archived/Projects Waiting") OR
 	contains(status, "Waiting") OR
 	contains(status, "Pause") AND
-	!contains(file.path, "Templates") AND
-	!contains(file.path, "4. Archived/Projects Completed")
+	!contains(file.path, "Templates")
 	
-
 // SORT choice(deadline, deadline, "") ASC
 
 SORT choice(!deadline, deadline, deadline) DESC

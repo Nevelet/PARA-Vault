@@ -26,7 +26,19 @@ if(title == "Untitled"){
 -%>
 
 
+## Projects
 
+```dataview
+TABLE deadline AS Deadline, status AS Status, tags AS Tags
+
+FROM #project  
+
+WHERE 
+	contains(goal, this.file.name) OR 
+	contains(goal, this.file.link) AND
+	!contains(status, "Done")
+
+```
 
 
 

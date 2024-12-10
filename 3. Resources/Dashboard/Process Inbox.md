@@ -22,8 +22,6 @@ TABLE
 	
 FROM "0. Inbox"
 
-WHERE status AND contains(status, "Inbox")
-
 SORT choice(created, created, "") ASC
 // SORT choice(!created, created, created) DESC
 

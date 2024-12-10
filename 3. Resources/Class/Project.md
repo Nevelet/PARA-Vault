@@ -16,18 +16,18 @@ fieldsOrder:
   - IHwuQT
   - RAZ8iv
   - oSgh0v
-version: "2.60"
+version: "2.64"
 fields:
-  - name: people
+  - name: goal
     type: MultiFile
     options:
-      dvQueryString: dv.pages('#people')
+      dvQueryString: dv.pages('#goal').where(p => !p.file.path.includes("Templates"))
     path: ""
     id: g1ePul
   - name: area
     type: MultiFile
     options:
-      dvQueryString: dv.pages('#area')
+      dvQueryString: dv.pages('#area').where(p => !p.file.path.includes("Templates"))
     path: ""
     id: AKqa7C
   - name: priority

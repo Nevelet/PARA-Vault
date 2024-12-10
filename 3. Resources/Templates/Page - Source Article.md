@@ -1,8 +1,8 @@
 ---
 created: <%tp.date.now("YYYY-MM-DD")%>
-URL: 
-author:
-  - 
+URL: <%await tp.system.prompt("URL")%>
+author: 
+  - <%await tp.system.prompt("Autore")%>
 tags:
   - source/article
 status: Write

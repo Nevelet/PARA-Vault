@@ -12,7 +12,6 @@ fields:
     options:
       sourceType: ValuesList
       valuesList:
-        "1": Captured
         "2": Write
         "4": Distill
         "5": Organize
@@ -25,7 +24,7 @@ fields:
     options: {}
     path: ""
     id: d9SSRd
-version: "2.15"
+version: "2.16"
 limit: 20
 mapWithTag: false
 icon: package

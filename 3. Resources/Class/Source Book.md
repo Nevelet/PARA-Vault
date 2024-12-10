@@ -4,14 +4,14 @@ mapWithTag: false
 icon: book
 tagNames:
   - source/book
-  - source/mediaDB/book
 filesPaths: 
 bookmarksGroups: 
 excludes: 
-extends: Source Class
+extends: 
 savedViews: []
 favoriteView: 
 fieldsOrder:
+  - ofiG6P
   - CFwOPE
   - HukhM9
   - L2jYyn
@@ -21,7 +21,7 @@ fieldsOrder:
   - PJx6AE
   - lAIgO2
   - Ypjgxt
-version: "2.67"
+version: "2.72"
 fields:
   - name: title
     type: Input
@@ -75,4 +75,14 @@ fields:
         "5": ⭐
     path: ""
     id: Ypjgxt
+  - name: status
+    type: Select
+    options:
+      sourceType: ValuesList
+      valuesList:
+        "1": Active
+        "2": Distill
+        "3": Done
+    path: ""
+    id: ofiG6P
 ---

@@ -4,21 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "6f34d1a8671b2cf7",
+        "id": "852cd0cba05467ba",
         "type": "tabs",
         "children": [
           {
-            "id": "061313dcb709fb49",
+            "id": "95ca09bd101a7729",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/Dashboard/My Books.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "My Books"
+              "title": "README"
             }
           }
         ]
@@ -77,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5019836425781
+    "width": 276.5019836425781,
+    "collapsed": true
   },
   "right": {
     "id": "860e3e12398be00f",
@@ -103,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Dashboard/My Books.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for My Books"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -155,7 +158,8 @@
               "title": "Outline of Welcome"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -173,35 +177,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "061313dcb709fb49",
+  "active": "95ca09bd101a7729",
   "lastOpenFiles": [
-    "3. Resources/Sources/Books/Libro 3.md",
-    "3. Resources/Dashboard/My Books.md",
-    "3. Resources/Sources/Books/Libro 2.md",
-    "3. Resources/Sources/Books/Libro 1.md",
-    "3. Resources/Dashboard/My Areas.md",
-    "3. Resources/Dashboard/My Projects.md",
-    "1. Projects/provaaa.md",
-    "3. Resources/Dashboard/My Habits.md",
-    "2. Areas/Journal/Daily/2024-12-09.md",
-    "2. Areas/Journal/Weekly/Weekly Review 2024-W50.md",
-    "1. Projects/prova.md",
-    "3. Resources/Templates/Templater - Select Type Note.md",
-    "3. Resources/Templates/Templater - Trigger note.md",
-    "2. Areas/Journal/Weekly/Weekly Review 2024-W49.md",
-    "2. Areas/Journal/Weekly",
-    "_HOME.md",
-    "3. Resources/Templates/Templater - Select Type Source.md",
-    "3. Resources/Templates/Templater - New Templater.md",
-    "3. Resources/Templates/Templater - New Templater w JS.md",
-    "3. Resources/Templates/Templater - Include.md",
-    "3. Resources/Templates/Templater - Date.md",
-    "3. Resources/Templates/Page - Topic.md",
-    "3. Resources/Templates/Page - People.md",
-    "3. Resources/Templates/Page - Areas.md",
-    "3. Resources/Templates/Page - Note.md",
-    "3. Resources/Templates/Page - Source Article.md",
+    "3. Resources/Templates/Page - Source Video.md",
+    "3. Resources/Sources/Video/FARE MUSICA CON L’AI IN MODO INTELLIGENTE.md",
+    "3. Resources/Sources/Video/prova.md",
+    "3. Resources/Dashboard/My Sources.md",
+    "3. Resources/Sources/Video/Fare musica con l'AI in modo intelligente.md",
+    "1. Projects/Progetto XY.md",
     "3. Resources/Templates/Page - Project.md",
+    "2. Areas/Goals/Obiettivo 2.md",
+    "3. Resources/Dashboard/My Projects.md",
+    "3. Resources/Templates/Page - Source Book.md",
+    "3. Resources/Templates/Page - Source Article.md",
+    "3. Resources/Templates/Templater - Suggester Status Note.md",
+    "3. Resources/Templates/Templater - Suggester Status Project.md",
+    "3. Resources/Templates/Templater - Suggester Priority.md",
+    "3. Resources/Dashboard/My Goals.md",
+    "2. Areas/Goals/Obiettivo 1.md",
+    "3. Resources/Templates/Page - Goals.md",
+    "1. Projects/Progetto X.md",
+    "3. Resources/Class/Source Movie Film.md",
+    "0. Inbox/Area 1.md",
+    "2. Areas/Goals",
+    "3. Resources/Dashboard/Dashboard.md",
+    "3. Resources/Dashboard/My Movies.md",
+    "3. Resources/Movies/Series/Dexter.md",
+    "3. Resources/Movies/Series/Shameless (2011–2021).md",
+    "3. Resources/Movies/Series/Gen V (2023–).md",
+    "3. Resources/Movies/Film/Transcendence (2014).md",
+    "2. Areas/Journal/Weekly",
     "3. Resources/Topics",
     "3. Resources/Attachments/book cover.png",
     "3. Resources/Attachments/no cover image.png",
@@ -213,7 +218,6 @@
     "3. Resources/Movies/Series",
     "3. Resources/Movies/Film",
     "3. Resources/Movies",
-    "3. Resources/Sources/Video",
     "3. Resources/Templates/Canvas - Weekly Planner.canvas"
   ]
 }

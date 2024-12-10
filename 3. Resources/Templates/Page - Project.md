@@ -3,9 +3,10 @@ created: <%tp.date.now("YYYY-MM-DD")%>
 deadline: 
 tags:
   - project
-status: 
-priority: 
-area:
+status: <%await tp.file.include('[[Templater - Suggester Status Project]]')%>
+priority: <%await tp.file.include('[[Templater - Suggester Priority]]')%>
+area: 
+goal:
 ---
 Links:: [[My Projects]]
 

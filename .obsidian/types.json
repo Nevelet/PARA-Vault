@@ -20,6 +20,7 @@
     "actors": "multitext",
     "streamingServices": "multitext",
     "seasonWatch": "number",
-    "episodeWatch": "number"
+    "episodeWatch": "number",
+    "author": "multitext"
   }
 }
