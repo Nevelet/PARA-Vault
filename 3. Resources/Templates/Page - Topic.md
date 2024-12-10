@@ -16,11 +16,10 @@ Links:: [[My Topics]]
 TABLE 
 	created AS Created
 	
-FROM [[]] AND !outgoing([[]])
+FROM [[]] AND !outgoing([[]]) AND !#journal 
 
 WHERE
-	!contains(file.path, "Templates") AND
-	!contains(file.path, "Calendar")
+	!contains(file.path, "Templates")
 
 // SORT choice(created, created, "") ASC
 SORT choice(!created, created, created) DESC

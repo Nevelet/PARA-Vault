@@ -19,7 +19,7 @@ tags:
 
 - 
 
-## 🎯 Obiettivi del giorno
+## 🎯 [[My Goals|Obiettivi]] del giorno
 
 ```dataview
 TASK

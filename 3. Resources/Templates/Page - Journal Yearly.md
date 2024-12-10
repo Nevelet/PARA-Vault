@@ -7,7 +7,7 @@ tags:
 [[<%tp.date.now("[Yearly Review] YYYY", "P-1Y", tp.file.title, "YYYY")%>|↶ PREVIOUS YEAR]] ⁝ [[Monthly Review <%tp.date.now("YYYY-MM") %>|THIS MONTH]] ⁝ [[<%tp.date.now("[Monthly Review] YYYY", "P1Y", tp.file.title, "YYYY")%>|FOLLOWING YEAR ↷]]
 
 
-## 🎯 Goals
+## 🎯 [[My Goals|Obiettivi]]
 
 Sulla base di questi [[My Goals|obiettivi]], quali sono gli obiettivi che devi raggiungere quest'anno per arrivarci?
 

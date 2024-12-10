@@ -26,7 +26,7 @@ if(title == "Untitled"){
 -%>
 
 
-## Projects
+## [[My Projects|Projects]]
 
 ```dataview
 TABLE deadline AS Deadline, status AS Status, tags AS Tags

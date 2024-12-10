@@ -19,7 +19,8 @@ Links:: [[My Areas]]
 TABLE deadline AS Deadline
 FROM #goal  
 WHERE 
-	contains(Links, this.file.link) AND
+	contains(link(Links), link(this.file.name)) OR
+	contains(link(area), link(this.file.name)) AND
 	contains(status, "Active")
 
 LIMIT 20
@@ -31,7 +32,8 @@ LIMIT 20
 TABLE deadline AS Deadline
 FROM #project 
 WHERE 
-	contains(Links, this.file.link) AND
+	contains(link(Links), link(this.file.name)) OR
+	contains(link(area), link(this.file.name)) AND
 	contains(status, "Active")
 
 LIMIT 20
@@ -43,8 +45,9 @@ LIMIT 20
 TABLE status AS Status
 FROM #source 
 WHERE 
-	contains(Links, this.file.link) AND
-	!contains(status, "Done")
+	contains(link(Links), link(this.file.name)) OR
+	contains(link(area), link(this.file.name)) AND
+	contains(status, "Active")
 
 LIMIT 20
 ```
@@ -53,8 +56,12 @@ LIMIT 20
 
 ```dataview
 TABLE status AS Status, created AS Created
-FROM #note 
-WHERE contains(Links, this.file.link)
+FROM #note
+
+WHERE 
+	contains(link(Links), link(this.file.name)) OR
+	contains(link(area), link(this.file.name)) AND
+	contains(status, "Active")
 
 LIMIT 20
 ```

@@ -9,7 +9,7 @@ tags:
 [[<%tp.date.now("[Monthly Review] YYYY-MM", -1, tp.file.title, "YYYY-MM")%>|↶ PREVIOUS MONTH]] ⁝ [[<%tp.date.now("[Monthly Review] YYYY-MM", 0, tp.file.title, "YYYY-MM")%>|THIS MONTH]] ⁝ [[<%tp.date.now("[Monthly Review] YYYY-MM", 31, tp.file.title, "YYYY-MM")%>|FOLLOWING MONTH ↷]]
 
 
-## 🎯 Goals
+## 🎯 [[My Goals|Obiettivi]]
 
 ```dataview
 TASK

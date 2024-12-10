@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "852cd0cba05467ba",
+        "id": "a21e7bb7987ff3c9",
         "type": "tabs",
         "children": [
           {
-            "id": "95ca09bd101a7729",
+            "id": "22534b3e67fd33f8",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,7 +17,6 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "README"
             }
@@ -79,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5019836425781,
-    "collapsed": true
+    "width": 287.5019836425781
   },
   "right": {
     "id": "860e3e12398be00f",
@@ -177,35 +174,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "95ca09bd101a7729",
+  "active": "22534b3e67fd33f8",
   "lastOpenFiles": [
-    "3. Resources/Templates/Page - Source Video.md",
-    "3. Resources/Sources/Video/FARE MUSICA CON L’AI IN MODO INTELLIGENTE.md",
-    "3. Resources/Sources/Video/prova.md",
-    "3. Resources/Dashboard/My Sources.md",
-    "3. Resources/Sources/Video/Fare musica con l'AI in modo intelligente.md",
-    "1. Projects/Progetto XY.md",
-    "3. Resources/Templates/Page - Project.md",
-    "2. Areas/Goals/Obiettivo 2.md",
-    "3. Resources/Dashboard/My Projects.md",
+    "3. Resources/Templates/Templater - Trigger note.md",
+    "3. Resources/Templates/Templater - Suggester Status Project.md",
+    "3. Resources/Templates/Templater - Suggester Status Note.md",
+    "3. Resources/Templates/Templater - Suggester Priority.md",
+    "3. Resources/Templates/Templater - Select Type Source.md",
+    "3. Resources/Templates/Templater - Select Type Note.md",
+    "3. Resources/Templates/Templater - New Templater.md",
+    "3. Resources/Templates/Templater - Include.md",
+    "3. Resources/Templates/Templater - Date.md",
+    "3. Resources/Templates/Property - Note.md",
+    "3. Resources/Templates/Page - Topic.md",
     "3. Resources/Templates/Page - Source Book.md",
     "3. Resources/Templates/Page - Source Article.md",
-    "3. Resources/Templates/Templater - Suggester Status Note.md",
-    "3. Resources/Templates/Templater - Suggester Status Project.md",
-    "3. Resources/Templates/Templater - Suggester Priority.md",
-    "3. Resources/Dashboard/My Goals.md",
-    "2. Areas/Goals/Obiettivo 1.md",
+    "3. Resources/Templates/Page - Project.md",
+    "3. Resources/Templates/Page - People.md",
     "3. Resources/Templates/Page - Goals.md",
-    "1. Projects/Progetto X.md",
-    "3. Resources/Class/Source Movie Film.md",
+    "3. Resources/Templates/Page - Empty.md",
+    "3. Resources/Templates/Page - Journal Weekly.md",
+    "3. Resources/Templates/Page - Journal Monthly.md",
+    "3. Resources/Templates/Page - Journal Yearly.md",
+    "3. Resources/Templates/Page - Journal Daily.md",
+    "3. Resources/Templates/Page - Areas.md",
     "0. Inbox/Area 1.md",
+    "1. Projects/Progetto XY.md",
+    "1. Projects/Progetto X.md",
+    "2. Areas/Goals/Obiettivo 1.md",
     "2. Areas/Goals",
-    "3. Resources/Dashboard/Dashboard.md",
-    "3. Resources/Dashboard/My Movies.md",
-    "3. Resources/Movies/Series/Dexter.md",
-    "3. Resources/Movies/Series/Shameless (2011–2021).md",
-    "3. Resources/Movies/Series/Gen V (2023–).md",
-    "3. Resources/Movies/Film/Transcendence (2014).md",
     "2. Areas/Journal/Weekly",
     "3. Resources/Topics",
     "3. Resources/Attachments/book cover.png",

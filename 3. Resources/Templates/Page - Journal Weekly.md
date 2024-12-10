@@ -7,7 +7,7 @@ year: <%tp.date.now("YYYY", 0, tp.file.title, "YYYY-ww")%>
 ---
 [[<%tp.date.now("[Weekly Review] YYYY-[W]ww", -7, tp.file.title, "YYYY-ww")%>|↶ PREVIOUS WEEK]] ⁝ [[<%tp.date.now("[Monthly Review] YYYY-MM", 0, tp.file.title, "YYYY-ww")%>|THIS MONTH]] ⁝ [[<%tp.date.now("[Weekly Review] YYYY-[W]ww", +7, tp.file.title, "YYYY-ww")%>|FOLLOWING WEEK ↷]]
 
-## 🎯 Goals
+## 🎯 [[My Goals|Obiettivi]]
 
 ```dataview
 TASK
