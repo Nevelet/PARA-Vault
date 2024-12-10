@@ -6,7 +6,6 @@ Qui trovate il mio [canale YouTube](https://www.youtube.com/@GiambattistaCiancio
 > [!info]
 > **Se questo vault è troppo complesso e non ti piace una struttura cosi rigida, puoi provare quest'altro Vault:** 
 > 
-> ---
 > **Per questo Vault ho usato questi plugin:**
 > - Calendar (per le [note giornaliere](https://youtu.be/CjVbhDReFSY?si=hosVcUHmrTb9mvtW))
 > - [Dataview](https://youtu.be/GH2vo9lVOg4?si=rA0VMMEVbbJ7Zkva) (per creare tabelle filtrate)
@@ -14,7 +13,7 @@ Qui trovate il mio [canale YouTube](https://www.youtube.com/@GiambattistaCiancio
 > - Metadata Menu (per aggiornare velocemente le proprietà)
 > - Style Settings (per dare una personalizzazione al tema)
 > - Templater (per aggiungere gli steroidi ai template)
-> ---
+> - 
 > Per la struttura delle cartelle, mi sono basato sul Metodo PARA di Tiago Forte. Per maggiori informazioni, potete guardare [questo mio video](https://youtu.be/UhWRNcEvS9M?si=UukActXtE2W64oFC) 
 > 
 > Per il tema invece ho usato AnuPpuccin che grazie al plugin Style Settings è possibile personalizzarlo ai massimi livelli. Nota: se disattivi il plugin Style Settings, cambieranno alcuni colori, comprese le cartelle nell'esplora file.
