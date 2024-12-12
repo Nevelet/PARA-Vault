@@ -10,6 +10,7 @@
           {
             "id": "447674bc03592a11",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,6 +18,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "README"
             }
@@ -175,6 +177,8 @@
   },
   "active": "447674bc03592a11",
   "lastOpenFiles": [
+    "2. Areas/Journal/Daily/2024-12-12.md",
+    "README.md",
     "3. Resources/Templates/Page - Note Area.md",
     "3. Resources/Templates/Page - Note General.md",
     "0. Inbox/Area Note 1.md",
@@ -199,8 +203,6 @@
     "3. Resources/Templates/Page - People.md",
     "3. Resources/Templates/Page - Goals.md",
     "3. Resources/Dashboard/My Projects.md",
-    "3. Resources/Templates/Page - Areas.md",
-    "3. Resources/Templates/Page - Empty.md",
     "_HOME.canvas",
     "2. Areas/Journal/Monthly",
     "2. Areas/Goals",
