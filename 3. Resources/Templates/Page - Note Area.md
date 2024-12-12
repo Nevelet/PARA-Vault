@@ -1,8 +1,9 @@
 ---
 created: <%tp.date.now("YYYY-MM-DD")%>
 tags:
-  - note
+  - area-note
 status: Write
+area:
 ---
 Links:: 
 

@@ -1,11 +1,13 @@
 <%*
 let type = await tp.system.suggester([
-"Standard Note", 
+"General Note", 
+"Area Note",
 "Source", 
 "Project",
 "Empty"
 ], [
-"Standard Note", 
+"General Note", 
+"Area Note",
 "Source", 
 "Project",
 "Empty"
@@ -13,10 +15,14 @@ let type = await tp.system.suggester([
 ], 
 true, "Select type note")
 
-if(type == "Standard Note"){
-	return await tp.file.include("[[Page - Note]]")
+if(type == "General Note"){
+	return await tp.file.include("[[Page - Note General]]")
 	
 } 
+
+else if(type == "Area Note"){
+	return await tp.file.include("[[Page - Note Area]]")
+}
 
 else if(type == "Source"){
 	return await tp.file.include("[[Templater - Select Type Source]]")

@@ -13,7 +13,7 @@ if (title.includes('pj')) {
 	return tp.file.include('[[Page - Project]]')
 }
 
-// Clients
+// People
 else if (title.startsWith("@")) {
  	return tp.file.include('[[Page - People]]')
 } 

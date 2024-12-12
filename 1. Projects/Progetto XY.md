@@ -6,7 +6,7 @@ tags:
 status: Active
 priority: Medium
 area:
-  - "[[Area 1]]"
+  - "[[; Area 1]]"
 goal:
   - "[[Obiettivo 2]]"
 ---

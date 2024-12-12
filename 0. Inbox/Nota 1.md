@@ -4,7 +4,7 @@ tags:
   - note
 status: Write
 ---
-Links:: 
+Links:: [[Topic 1]]
 
 ---
 

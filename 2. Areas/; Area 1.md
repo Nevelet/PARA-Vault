@@ -13,7 +13,7 @@ Links:: [[My Areas]]
 
 
 
-## Goals
+## [[My Goals|Goals]]
 
 ```dataview
 TABLE deadline AS Deadline
@@ -26,7 +26,7 @@ WHERE
 LIMIT 20
 ```
 
-## Projects
+## [[My Projects|Projects]]
 
 ```dataview
 TABLE deadline AS Deadline
@@ -39,7 +39,7 @@ WHERE
 LIMIT 20
 ```
 
-## Sources
+## [[My Sources|Sources]]
 
 ```dataview
 TABLE status AS Status
@@ -52,7 +52,7 @@ WHERE
 LIMIT 20
 ```
 
-## Notes
+## [[My Notes|Notes]]
 
 ```dataview
 TABLE status AS Status, created AS Created

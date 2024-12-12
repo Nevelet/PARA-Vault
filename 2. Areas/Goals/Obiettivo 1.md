@@ -7,7 +7,7 @@ target: 10
 currently: 5
 status: Active
 area:
-  - "[[Area 1]]"
+  - "[[; Area 1]]"
 period: Yearly
 ---
 Links:: [[My Goals]]

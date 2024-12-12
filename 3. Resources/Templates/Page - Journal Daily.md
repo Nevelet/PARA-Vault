@@ -38,7 +38,13 @@ Sulla base degli obiettivi settimanali, qual è l'unico obiettivo che devi raggi
 - [ ] 
 
 
-## ♻ [[My Habits|Habits]]
+## ✅ Tasks
+
+- [ ] 
+
+
+
+## ♻ Habits
 
 - [ ] Esercizi
 - [ ] Lettura

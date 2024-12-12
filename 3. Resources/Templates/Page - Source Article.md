@@ -1,12 +1,13 @@
 ---
 created: <%tp.date.now("YYYY-MM-DD")%>
 URL: <%await tp.system.prompt("URL")%>
-author: 
+author:
   - <%await tp.system.prompt("Autore")%>
 tags:
   - source/article
 status: Write
-note: 
+topics: 
+note:
 ---
 Links:: [[My Sources]]
 

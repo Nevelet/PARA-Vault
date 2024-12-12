@@ -4,6 +4,7 @@
 Qui trovate il mio [canale YouTube](https://www.youtube.com/@GiambattistaCiancio) per guardare altri video e, perché no, iscrivervi. Mi farebbe molto piacere. 🙏 Qui invece trovate una [Playlist su Obsidian](https://youtube.com/playlist?list=PLZBoOA4enayocyEuWybJw7RLkp749O6RH&si=yxyxNk2HOkQHgr7S) per tutorial su plugin e molto altro. 
 
 > [!note]
+> **Se questo Vault è troppo complesso e non ti piace una struttura cosi rigida, puoi provare quest'altro:** 
 > 
 > **Per questo Vault ho usato questi plugin:**
 > - Calendar (per le [note giornaliere](https://youtu.be/CjVbhDReFSY?si=hosVcUHmrTb9mvtW))
@@ -24,7 +25,9 @@ Qui trovate il mio [canale YouTube](https://www.youtube.com/@GiambattistaCiancio
 > 
 
 > [!Tip]
-> Spero che questo questo Vault possa essere di vostro gradimento. Spero possa aiutarvi ad essere più produttivi e a gestire al meglio le varie informazioni. BUON DIVERIMENTO! 😉
+> Spero che questo questo Vault possa essere di vostro gradimento. Spero possa aiutarvi ad essere più produttivi e a gestire al meglio le varie informazioni. Se cosi fosse, puoi supportarmi gratuitamente lasciando un iscrizione a questo [canale YouTube](https://www.youtube.com/@GiambattistaCiancio) 
+> 
+> BUON DIVERIMENTO! 😉
 > 
 > _Giambattista Ciancio_
 

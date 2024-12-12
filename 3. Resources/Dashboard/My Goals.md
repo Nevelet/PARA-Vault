@@ -3,9 +3,8 @@ tags:
   - dashboard
 cssclasses:
   - no-wrap
-  - cards
   - wide
-topics:
+  - cards
 ---
 Links:: [[Dashboard]]
 

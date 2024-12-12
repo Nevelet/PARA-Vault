@@ -1,8 +1,8 @@
 [
-  "obsidian-style-settings",
   "calendar",
   "dataview",
-  "templater-obsidian",
   "obsidian-meta-bind-plugin",
-  "metadata-menu"
+  "metadata-menu",
+  "obsidian-style-settings",
+  "templater-obsidian"
 ]

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - wide
 tags:
   - dashboard
 ---

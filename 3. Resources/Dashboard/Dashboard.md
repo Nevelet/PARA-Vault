@@ -1,6 +1,3 @@
----
-cssclasses: []
----
 Links:: [[My Resources]]
 
 ---

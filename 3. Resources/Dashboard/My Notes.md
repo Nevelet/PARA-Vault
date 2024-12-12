@@ -11,9 +11,42 @@ cssclasses:
 Links:: [[Dashboard]]
 
 ---
+
+```meta-bind-button
+label: Add Note
+icon: notepad-text
+hidden: false
+class: ""
+tooltip: ""
+id: ""
+style: default
+actions:
+  - type: templaterCreateNote
+    templateFile: 3. Resources/Templates/Page - Note.md
+    folderPath: /
+    fileName: ""
+    openNote: true
+
+```
+
 ## Inbox
 
-- [[Process Inbox]]
+```dataview
+TABLE 
+	status AS Status, 
+	note AS Note, 
+	tags AS Tags, 
+	created AS Created, 
+	date(today) -created AS Time, 
+	Links
+	
+FROM "0. Inbox"
+
+SORT choice(created, created, "") ASC
+// SORT choice(!created, created, created) DESC
+
+LIMIT 20
+```
 
 ## Write
 

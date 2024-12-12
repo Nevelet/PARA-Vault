@@ -8,7 +8,7 @@ Links:: [[My Notes]]
 ---
 
 ```dataview
-TABLE file.ctime
+TABLE file.ctime AS "Data Creazione"
 SORT file.ctime DESC
 LIMIT 10
 ```

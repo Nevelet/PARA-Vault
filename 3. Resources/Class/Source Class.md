@@ -9,13 +9,8 @@ excludes:
 extends: Standard
 savedViews: []
 favoriteView: 
-version: "2.36"
+version: "2.44"
 fields:
-  - name: author
-    type: File
-    options: {}
-    path: ""
-    id: TMaPUG
   - name: URL
     type: Input
     options: {}
@@ -38,9 +33,21 @@ fields:
     options: {}
     path: ""
     id: ar3McP
+  - name: author
+    type: Input
+    options: {}
+    path: ""
+    id: go7hDK
+  - name: topics
+    type: MultiFile
+    options:
+      dvQueryString: dv.pages('#topic').where(p => !p.file.path.includes("Templates"))
+    path: ""
+    id: wEaQlK
 fieldsOrder:
   - ar3McP
   - 2FkxDI
+  - go7hDK
+  - wEaQlK
   - YhC2VL
-  - TMaPUG
 ---

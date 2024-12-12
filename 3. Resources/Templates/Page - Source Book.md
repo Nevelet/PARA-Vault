@@ -6,13 +6,14 @@ status: Active
 title: 
 year: 
 URL: 
-author: 
+author:
   - <%await tp.system.prompt("Autore")%>
 pages: <%await tp.system.prompt("Pagine totali")%>
 pages-read: 
 image: 
 onlineRating: 
-personalRating:
+personalRating: 
+topics:
 ---
 Links:: [[My Books]]
 

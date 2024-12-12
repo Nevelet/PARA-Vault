@@ -1,13 +1,12 @@
 ---
-created: 2024-12-10
-deadline: 2024-12-22
+created: 2024-12-12
+deadline: 
 tags:
   - project
-status: Pause
-priority: 
-area:
+status: Done
+priority: Medium
+area: 
 goal:
-  - "[[Obiettivo 1]]"
 ---
 Links:: [[My Projects]]
 

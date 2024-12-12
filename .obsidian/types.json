@@ -21,6 +21,8 @@
     "streamingServices": "multitext",
     "seasonWatch": "number",
     "episodeWatch": "number",
-    "author": "multitext"
+    "author": "multitext",
+    "areas": "multitext",
+    "topics": "multitext"
   }
 }

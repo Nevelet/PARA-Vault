@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"25b2dd1260827c54","type":"group","x":-1468,"y":71,"width":1370,"height":1060,"color":"4","label":"🧠 Knowledge"},
+		{"id":"470e0766abe05635","type":"group","x":42,"y":71,"width":1365,"height":1060,"color":"1","label":"💪 Actions"},
+		{"id":"16600a670a2fcf18","type":"group","x":42,"y":-899,"width":1370,"height":850,"color":"2","label":"🎯 Goals"},
+		{"id":"bfd694572cb6cc95","type":"group","x":-1468,"y":-899,"width":1370,"height":850,"color":"5","label":"🔗 Links"},
+		{"id":"133d1f2a7ed8e9f5","type":"file","file":"3. Resources/Dashboard/My Areas.md","x":-1428,"y":-844,"width":400,"height":780},
+		{"id":"dd527e3265d0734e","type":"file","file":"3. Resources/Dashboard/My Books.md","x":-1428,"y":151,"width":400,"height":965},
+		{"id":"8a9cd036011dbd73","type":"file","file":"3. Resources/Dashboard/My Sources.md","x":-993,"y":151,"width":400,"height":965},
+		{"id":"efec9c228d72f2dc","type":"file","file":"3. Resources/Dashboard/My Notes.md","x":-553,"y":151,"width":400,"height":965},
+		{"id":"6780043af78dafc8","type":"file","file":"3. Resources/Dashboard/My Goals.md","x":82,"y":-844,"width":400,"height":780},
+		{"id":"d686138794d663a7","type":"file","file":"3. Resources/Dashboard/Dashboard.md","x":-993,"y":-844,"width":400,"height":780},
+		{"id":"323e1eb0fd6850e0","type":"file","file":"2. Areas/Journal/Weekly/2024/Weekly Review 2024-W50.md","x":517,"y":-844,"width":400,"height":780},
+		{"id":"cc2f88b2de70edc4","type":"file","file":"3. Resources/Dashboard/My Projects.md","x":517,"y":151,"width":840,"height":955},
+		{"id":"b01b095ac6a6b8ff","type":"file","file":"2. Areas/Journal/Daily/2024-12-09.md","subpath":"#✅ Tasks","x":82,"y":151,"width":400,"height":450},
+		{"id":"bedc4a7757cbe7a2","type":"file","file":"2. Areas/Journal/Daily/2024-12-09.md","x":82,"y":656,"width":400,"height":450,"subpath":"#♻ Habits"}
+	],
+	"edges":[]
+}

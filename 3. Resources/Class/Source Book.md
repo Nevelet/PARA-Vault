@@ -16,12 +16,12 @@ fieldsOrder:
   - HukhM9
   - L2jYyn
   - WuHo5w
+  - wihah6
   - ZctlHA
   - sUtjK4
-  - PJx6AE
   - lAIgO2
   - Ypjgxt
-version: "2.72"
+version: "2.82"
 fields:
   - name: title
     type: Input
@@ -53,11 +53,6 @@ fields:
     options: {}
     path: ""
     id: ZctlHA
-  - name: read
-    type: Boolean
-    options: {}
-    path: ""
-    id: PJx6AE
   - name: image
     type: Input
     options: {}
@@ -85,4 +80,10 @@ fields:
         "3": Done
     path: ""
     id: ofiG6P
+  - name: topics
+    type: MultiFile
+    options:
+      dvQueryString: dv.pages('#topic').where(p => !p.file.path.includes("Templates"))
+    path: ""
+    id: wihah6
 ---

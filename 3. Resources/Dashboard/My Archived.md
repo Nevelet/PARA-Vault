@@ -2,7 +2,6 @@
 created: 2023-12-24
 tags:
   - dashboard
-aliases: 
 cssclasses:
   - wide
   - no-wrap

@@ -26,7 +26,7 @@ actions:
 
 ```
 
-## 🟡 Active
+## ▶ Active
 
 ```dataview
 TABLE WITHOUT ID
@@ -37,18 +37,19 @@ TABLE WITHOUT ID
 FROM #project AND "1. Projects"
 
 WHERE 
-	!contains(file.path, "Templates") AND
-	contains(status, "Active")
+	contains(status, "Active") AND
+	!contains(file.path, "Templates")
 
 // SORT choice(deadline, deadline, "") ASC
 
 SORT choice(!deadline, deadline, deadline) DESC
-
+SORT status DESC
+SORT priority DESC
 
 LIMIT 20
 ```
 
-## 🔴 Not Active
+## ⏸ Pause
 
 ```dataview
 TABLE WITHOUT ID
@@ -59,7 +60,6 @@ TABLE WITHOUT ID
 FROM #project 
 
 WHERE 
-	contains(status, "Waiting") OR
 	contains(status, "Pause") AND
 	!contains(file.path, "Templates")
 	
@@ -72,7 +72,30 @@ LIMIT 20
 ```
 
 
-## 🟢 Done
+## ⌚ Waiting
+
+```dataview
+TABLE WITHOUT ID
+    file.link as "Projects",
+    deadline as "Deadline"
+    
+FROM #project 
+
+WHERE 
+	contains(status, "Waiting") AND
+	!contains(file.path, "Templates")
+	
+
+// SORT choice(deadline, choice(deadline, deadline, ""), choice(publish-date, publish-date, "")) ASC
+
+SORT choice(!deadline, deadline, deadline) DESC
+
+
+LIMIT 20
+```
+
+
+## ✅ Done
 
 ```dataview
 TABLE WITHOUT ID

@@ -1,7 +1,6 @@
 ---
 tags:
   - dashboard
-created: 232023-11-07
 cssclasses:
   - wide
   - no-wrap

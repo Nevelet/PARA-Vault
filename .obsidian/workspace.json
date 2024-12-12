@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a21e7bb7987ff3c9",
+        "id": "10d00354bdb5a34e",
         "type": "tabs",
         "children": [
           {
-            "id": "22534b3e67fd33f8",
+            "id": "447674bc03592a11",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5019836425781
+    "width": 368.5019836425781
   },
   "right": {
     "id": "860e3e12398be00f",
@@ -88,23 +84,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "16c648649be24f0c",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
             "id": "1ef4047fda8452bc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -113,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks"
             }
           },
           {
@@ -154,9 +139,18 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
+          },
+          {
+            "id": "521fea46c7774c60",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,34 +168,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "22534b3e67fd33f8",
+  "active": "735226d8a5a440d6",
   "lastOpenFiles": [
+    "3. Resources/Templates/Page - Note Area.md",
+    "3. Resources/Templates/Page - Note General.md",
+    "0. Inbox/Area Note 1.md",
+    "3. Resources/Class/Note Area.md",
+    "3. Resources/Class/Note General.md",
+    "3. Resources/Sources/Books/Libro 1.md",
+    "3. Resources/Sources/Books/Libro 3.md",
+    "3. Resources/Sources/Books/Libro 2.md",
+    "3. Resources/Templates/Templater - Select Type Note.md",
     "3. Resources/Templates/Templater - Trigger note.md",
     "3. Resources/Templates/Templater - Suggester Status Project.md",
     "3. Resources/Templates/Templater - Suggester Status Note.md",
     "3. Resources/Templates/Templater - Suggester Priority.md",
     "3. Resources/Templates/Templater - Select Type Source.md",
-    "3. Resources/Templates/Templater - Select Type Note.md",
     "3. Resources/Templates/Templater - New Templater.md",
-    "3. Resources/Templates/Templater - Include.md",
-    "3. Resources/Templates/Templater - Date.md",
-    "3. Resources/Templates/Property - Note.md",
     "3. Resources/Templates/Page - Topic.md",
+    "3. Resources/Templates/Page - Source Video.md",
+    "3. Resources/Templates/Page - Source Movie (Film).md",
     "3. Resources/Templates/Page - Source Book.md",
     "3. Resources/Templates/Page - Source Article.md",
     "3. Resources/Templates/Page - Project.md",
     "3. Resources/Templates/Page - People.md",
     "3. Resources/Templates/Page - Goals.md",
-    "3. Resources/Templates/Page - Empty.md",
-    "3. Resources/Templates/Page - Journal Weekly.md",
-    "3. Resources/Templates/Page - Journal Monthly.md",
-    "3. Resources/Templates/Page - Journal Yearly.md",
-    "3. Resources/Templates/Page - Journal Daily.md",
+    "3. Resources/Dashboard/My Projects.md",
     "3. Resources/Templates/Page - Areas.md",
-    "0. Inbox/Area 1.md",
-    "1. Projects/Progetto XY.md",
-    "1. Projects/Progetto X.md",
-    "2. Areas/Goals/Obiettivo 1.md",
+    "3. Resources/Templates/Page - Empty.md",
+    "_HOME.canvas",
+    "2. Areas/Journal/Monthly",
     "2. Areas/Goals",
     "2. Areas/Journal/Weekly",
     "3. Resources/Topics",
@@ -214,7 +210,6 @@
     "3. Resources/Dashboard",
     "3. Resources/Movies/Series",
     "3. Resources/Movies/Film",
-    "3. Resources/Movies",
     "3. Resources/Templates/Canvas - Weekly Planner.canvas"
   ]
 }
