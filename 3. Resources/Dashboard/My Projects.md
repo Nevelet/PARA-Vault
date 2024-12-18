@@ -8,6 +8,8 @@ tags:
 Links:: [[_HOME]]
 
 ---
+_Le note vengono gestite seguendo [[Status Notes|questi stati]]_
+
 
 ```meta-bind-button
 label: Add Project

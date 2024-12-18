@@ -8,6 +8,8 @@ cssclasses:
 Links:: [[My Notes]]
 
 ---
+_Le note vengono gestite seguendo [[Status Notes|questi stati]]_
+
 
 ```meta-bind-button
 label: Add Source

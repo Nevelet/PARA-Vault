@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "10d00354bdb5a34e",
+        "id": "0ce39b2445af9807",
         "type": "tabs",
         "children": [
           {
-            "id": "447674bc03592a11",
+            "id": "f9c5e4cf5b6eadbd",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5019836425781
+    "width": 337.5019836425781
   },
   "right": {
     "id": "860e3e12398be00f",
@@ -157,7 +157,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -175,14 +176,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "447674bc03592a11",
+  "active": "f9c5e4cf5b6eadbd",
   "lastOpenFiles": [
-    "2. Areas/Journal/Daily/2024-12-12.md",
+    "_HOME.canvas",
     "README.md",
+    "3. Resources/Obsidian/Come uso i Tag e i Link su Obsidian.md",
+    "3. Resources/Obsidian/Status Notes.md",
+    "3. Resources/Dashboard/My Projects.md",
+    "3. Resources/Dashboard/My Notes.md",
+    "3. Resources/Dashboard/My Sources.md",
+    "3. Resources/General Notes/CODE Method.md",
+    "3. Resources/Class/Standard.md",
+    "3. Resources/Class/Note Area.md",
+    "3. Resources/Dashboard/Dashboard.md",
+    "3. Resources/Obsidian/Tasti Rapidi Personalizzati di Obsidian.md",
+    "3. Resources/General Notes",
+    "3. Resources/Obsidian",
+    "2. Areas/Journal/Daily/2024-12-12.md",
     "3. Resources/Templates/Page - Note Area.md",
     "3. Resources/Templates/Page - Note General.md",
     "0. Inbox/Area Note 1.md",
-    "3. Resources/Class/Note Area.md",
     "3. Resources/Class/Note General.md",
     "3. Resources/Sources/Books/Libro 1.md",
     "3. Resources/Sources/Books/Libro 3.md",
@@ -193,17 +206,6 @@
     "3. Resources/Templates/Templater - Suggester Status Note.md",
     "3. Resources/Templates/Templater - Suggester Priority.md",
     "3. Resources/Templates/Templater - Select Type Source.md",
-    "3. Resources/Templates/Templater - New Templater.md",
-    "3. Resources/Templates/Page - Topic.md",
-    "3. Resources/Templates/Page - Source Video.md",
-    "3. Resources/Templates/Page - Source Movie (Film).md",
-    "3. Resources/Templates/Page - Source Book.md",
-    "3. Resources/Templates/Page - Source Article.md",
-    "3. Resources/Templates/Page - Project.md",
-    "3. Resources/Templates/Page - People.md",
-    "3. Resources/Templates/Page - Goals.md",
-    "3. Resources/Dashboard/My Projects.md",
-    "_HOME.canvas",
     "2. Areas/Journal/Monthly",
     "2. Areas/Goals",
     "2. Areas/Journal/Weekly",
@@ -215,8 +217,6 @@
     "4. Archived/Projects Waiting",
     "4. Archived/Projects Completed",
     "3. Resources/Dashboard",
-    "3. Resources/Movies/Series",
-    "3. Resources/Movies/Film",
     "3. Resources/Templates/Canvas - Weekly Planner.canvas"
   ]
 }

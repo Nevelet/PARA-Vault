@@ -14,10 +14,13 @@ Qui trovate il mio [canale YouTube](https://www.youtube.com/@GiambattistaCiancio
 > - Style Settings (per dare una personalizzazione al tema)
 > - Templater (per aggiungere gli steroidi ai template)
 > 
-> Per la struttura delle cartelle, mi sono basato sul Metodo PARA di Tiago Forte. Per maggiori informazioni, potete guardare [questo mio video](https://youtu.be/UhWRNcEvS9M?si=UukActXtE2W64oFC) 
+> Per la **struttura delle cartell**e, mi sono basato sul Metodo PARA di Tiago Forte. Per maggiori informazioni, potete guardare [questo mio video](https://youtu.be/UhWRNcEvS9M?si=UukActXtE2W64oFC) 
 > 
-> Per il tema invece ho usato AnuPpuccin che grazie al plugin Style Settings è possibile personalizzarlo ai massimi livelli. Nota: se disattivi il plugin Style Settings, cambieranno alcuni colori, comprese le cartelle nell'esplora file.
+> Per sapere invece come uso uso i tag e i link, puoi visitare [[Come uso i Tag e i Link su Obsidian|questa nota]]
 > 
+> Per il **tema** invece ho usato AnuPpuccin che grazie al plugin Style Settings è possibile personalizzarlo ai massimi livelli. Nota: se disattivi il plugin Style Settings, cambieranno alcuni colori, comprese le cartelle nell'esplora file.
+> 
+> Ho aggiunto diversi **tasti rapidi**, che puoi consultare [[Tasti Rapidi Personalizzati di Obsidian|qui]]
 > 
 
 > [!WARNING]

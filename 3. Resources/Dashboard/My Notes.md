@@ -11,6 +11,8 @@ cssclasses:
 Links:: [[Dashboard]]
 
 ---
+_Le note vengono gestite seguendo [[Status Notes|questi stati]]_
+
 
 ```meta-bind-button
 label: Add Note
@@ -58,7 +60,7 @@ TABLE
 
 FROM #note
 
-WHERE action = "Write" OR status = "Write"
+WHERE status = "Write"
 
 SORT choice(created, created, "") ASC
 // SORT choice(!created, created, created) DESC
@@ -78,7 +80,7 @@ TABLE
 
 FROM #note
 
-WHERE action = "Distill" OR status = "Distill"
+WHERE status = "Distill"
 
 SORT choice(created, created, "") ASC
 // SORT choice(!created, created, created) DESC
@@ -98,7 +100,7 @@ TABLE
 
 FROM #note
 
-WHERE action = "Organize" OR status = "Organize"
+WHERE status = "Organize"
 
 SORT choice(created, created, "") ASC
 // SORT choice(!created, created, created) DESC
@@ -123,7 +125,7 @@ TABLE
 
 FROM #note
 
-WHERE action = "Express" OR status = "Express"
+WHERE status = "Express"
 
 SORT choice(created, created, "") ASC
 // SORT choice(!created, created, created) DESC
