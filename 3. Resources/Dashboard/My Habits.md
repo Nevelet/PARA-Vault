@@ -9,6 +9,15 @@ tags:
 Links:: [[Dashboard]]
 
 ---
+**Fisico**
+- Esercizio fisico
+
+**Mente**
+- Lettura
+- Meditazione
+
+**Business**
+- Creare contenuti
 
 ## Ultimi 30 giorni
 
@@ -17,7 +26,9 @@ TABLE
 
     choice(length(filter(file.tasks, (t) => contains(t.text, "Esercizi") AND t.checked)) > 0, "✅", "❌") AS "💪 Esercizi",
 
-    choice(length(filter(file.tasks, (t) => contains(t.text, "Lettura") AND t.checked)) > 0, "✅", "❌") AS "📚 Lettura"
+    choice(length(filter(file.tasks, (t) => contains(t.text, "Lettura") AND t.checked)) > 0, "✅", "❌") AS "📚 Lettura",
+
+	choice(length(filter(file.tasks, (t) => contains(t.text, "Meditazione") AND t.checked)) > 0, "✅", "❌") AS "🧘‍♂️ Meditazione"
 
 
 FROM "2. Areas/Journal/Daily"
@@ -35,7 +46,9 @@ TABLE
 
     choice(length(filter(file.tasks, (t) => contains(t.text, "Esercizi") AND t.checked)) > 0, "✅", "❌") AS "💪 Esercizi",
 
-    choice(length(filter(file.tasks, (t) => contains(t.text, "Lettura") AND t.checked)) > 0, "✅", "❌") AS "📚 Lettura"
+    choice(length(filter(file.tasks, (t) => contains(t.text, "Lettura") AND t.checked)) > 0, "✅", "❌") AS "📚 Lettura",
+
+	choice(length(filter(file.tasks, (t) => contains(t.text, "Meditazione") AND t.checked)) > 0, "✅", "❌") AS "🧘‍♂️ Meditazione"
 
 
 FROM "2. Areas/Journal/Daily"

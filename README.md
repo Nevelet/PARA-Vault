@@ -12,7 +12,7 @@ Qui trovate il mio [canale YouTube](https://www.youtube.com/@GiambattistaCiancio
 > - Meta Bind (per creare pulsanti)
 > - Metadata Menu (per aggiornare velocemente le proprietà)
 > - Style Settings (per dare una personalizzazione al tema)
-> - Templater (per aggiungere gli steroidi ai template)
+> - [Templater](https://youtu.be/SdXSaYF29mg?si=SFQoz2zJitPl_bC6) (per aggiungere gli steroidi ai template)
 > 
 > Per la **struttura delle cartell**e, mi sono basato sul Metodo PARA di Tiago Forte. Per maggiori informazioni, potete guardare [questo mio video](https://youtu.be/UhWRNcEvS9M?si=UukActXtE2W64oFC) 
 > 

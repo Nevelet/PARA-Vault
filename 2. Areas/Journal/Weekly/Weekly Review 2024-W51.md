@@ -1,11 +1,11 @@
 ---
 tags:
   - journal/weekly
-week: <%tp.date.now("ww", 0, tp.file.title, "YYYY-ww")%>
-month: <%tp.date.now("MM", 0, tp.file.title, "YYYY-ww")%>
-year: <%tp.date.now("YYYY", 0, tp.file.title, "YYYY-ww")%>
+week: 51
+month: 12
+year: 2024
 ---
-[[<%tp.date.now("[Weekly Review] YYYY-[W]ww", -7, tp.file.title, "YYYY-ww")%>|↶ PREVIOUS WEEK]] ⁝ [[<%tp.date.now("[Monthly Review] YYYY-MM", 0, tp.file.title, "YYYY-ww")%>|THIS MONTH]] ⁝ [[<%tp.date.now("[Weekly Review] YYYY-[W]ww", +7, tp.file.title, "YYYY-ww")%>|FOLLOWING WEEK ↷]]
+[[Weekly Review 2024-W50|↶ PREVIOUS WEEK]] ⁝ [[Monthly Review 2024-12|THIS MONTH]] ⁝ [[Weekly Review 2024-W52|FOLLOWING WEEK ↷]]
 
 ## 🎯 [[My Goals|Obiettivi]]
 
@@ -79,31 +79,16 @@ Quali sono gli impegni più importanti di questa settimana?
 
 ## ♻ Habits
 
-| Abitudine        | Lun | Mar | Mer | Gio | Ven | Sab | Dom |     |
-| ---------------- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Esercizio        |     |     |     |     |     |     |     |     |
-| Lettura          |     |     |     |     |     |     |     |     |
-| Meditazione      |     |     |     |     |     |     |     |     |
-| Creare contenuti |     |     |     |     |     |     |     |     |
-
-**Fisico**
-- Esercizio fisico (0/5)
-
-**Mente**
-- Lettura (0/5)
-- Meditazione (0/5)
-
-**Business**
-- Creare contenuti (0/5)
-
-
-## ⌚ Log
+| Abitudine | Lun | Mar | Mer | Gio | Ven | Sab | Dom |     |
+| --------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Esercizio | ✅   |     | ✅   | ✅   |     |     |     |     |
+| Lettura   |     | ✅   |     |     |     |     |     |     |
 
 | Log        | Lun | Mar | Mer | Gio | Ven | Sab | Dom |
 | ---------- | --- | --- | --- | --- | --- | --- | --- |
-| Mood       |     |     |     |     |     |     |     |
-| Energia    |     |     |     |     |     |     |     |
-| Ore-Lavoro |     |     |     |     |     |     |     |
+| Mood       | 6   |     |     |     |     |     |     |
+| Energia    | 5   |     |     |     |     |     |     |
+| Ore-Lavoro | 4   |     |     |     |     |     |     |
 
 ## ✅ Checklist
 
@@ -122,7 +107,7 @@ Quali sono gli impegni più importanti di questa settimana?
 
 ## 🌟 Highlights 
 
-- weekly_log:: 
+- weekly_log:: Questa settimana è stata cosi cosi 
 
 
 >[!note]- Daily Log

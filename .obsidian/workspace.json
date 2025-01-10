@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0ce39b2445af9807",
+        "id": "6840c9f47d172c04",
         "type": "tabs",
         "children": [
           {
-            "id": "f9c5e4cf5b6eadbd",
+            "id": "519be7f709cf71cc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5019836425781
+    "width": 263.5019836425781,
+    "collapsed": true
   },
   "right": {
     "id": "860e3e12398be00f",
@@ -90,12 +91,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "c583960062177b51",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
             "id": "1ef4047fda8452bc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "2. Areas/Journal/Weekly/Weekly Review 2024-W01.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Weekly Review 2024-W01"
             }
           },
           {
@@ -132,7 +143,7 @@
                 "useHierarchy": true
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Etichette"
             }
           },
           {
@@ -146,19 +157,8 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
-          },
-          {
-            "id": "521fea46c7774c60",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -176,43 +176,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f9c5e4cf5b6eadbd",
+  "active": "519be7f709cf71cc",
   "lastOpenFiles": [
+    "_HOME.md",
     "_HOME.canvas",
+    "4. Archived/Projects Completed/Progetto Z.md",
     "README.md",
-    "3. Resources/Obsidian/Come uso i Tag e i Link su Obsidian.md",
-    "3. Resources/Obsidian/Status Notes.md",
-    "3. Resources/Dashboard/My Projects.md",
-    "3. Resources/Dashboard/My Notes.md",
-    "3. Resources/Dashboard/My Sources.md",
-    "3. Resources/General Notes/CODE Method.md",
-    "3. Resources/Class/Standard.md",
-    "3. Resources/Class/Note Area.md",
-    "3. Resources/Dashboard/Dashboard.md",
-    "3. Resources/Obsidian/Tasti Rapidi Personalizzati di Obsidian.md",
-    "3. Resources/General Notes",
-    "3. Resources/Obsidian",
-    "2. Areas/Journal/Daily/2024-12-12.md",
-    "3. Resources/Templates/Page - Note Area.md",
-    "3. Resources/Templates/Page - Note General.md",
-    "0. Inbox/Area Note 1.md",
-    "3. Resources/Class/Note General.md",
-    "3. Resources/Sources/Books/Libro 1.md",
-    "3. Resources/Sources/Books/Libro 3.md",
-    "3. Resources/Sources/Books/Libro 2.md",
-    "3. Resources/Templates/Templater - Select Type Note.md",
     "3. Resources/Templates/Templater - Trigger note.md",
+    "0. Inbox/Untitled.md",
+    "3. Resources/Templates/Page - Project.md",
+    "3. Resources/Templates/Page - People.md",
+    "3. Resources/Templates/Page - Note General.md",
+    "3. Resources/Templates/Page - Note Area.md",
+    "3. Resources/Templates/Page - Empty.md",
+    "3. Resources/Templates/Page - Areas.md",
     "3. Resources/Templates/Templater - Suggester Status Project.md",
     "3. Resources/Templates/Templater - Suggester Status Note.md",
     "3. Resources/Templates/Templater - Suggester Priority.md",
     "3. Resources/Templates/Templater - Select Type Source.md",
+    "3. Resources/Templates/Templater - Select Type Note.md",
+    "3. Resources/Templates/Templater - New Templater.md",
+    "3. Resources/Templates/Templater - Include.md",
+    "3. Resources/Templates/Templater - Date.md",
+    "3. Resources/Templates/Property - Note.md",
+    "3. Resources/Templates/Page - Topic.md",
+    "3. Resources/Templates/Page - Source Video.md",
+    "3. Resources/Templates/Page - Source Movie (Serie Tv).md",
+    "3. Resources/Templates/Page - Source Movie (Film).md",
+    "3. Resources/Templates/Page - Source Article.md",
+    "3. Resources/Attachments/no cover image.png",
+    "3. Resources/Attachments/goal.png",
+    "3. Resources/Attachments/book cover.png",
+    "3. Resources/General Notes",
+    "3. Resources/Obsidian",
     "2. Areas/Journal/Monthly",
     "2. Areas/Goals",
     "2. Areas/Journal/Weekly",
     "3. Resources/Topics",
-    "3. Resources/Attachments/book cover.png",
-    "3. Resources/Attachments/no cover image.png",
-    "3. Resources/Attachments/goal.png",
     "4. Archived/Projects Future",
     "4. Archived/Projects Waiting",
     "4. Archived/Projects Completed",

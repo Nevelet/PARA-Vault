@@ -9,10 +9,10 @@ URL:
 author: 
 pages: 
 pages-read: 
-image: 
+image: https://m.media-amazon.com/images/I/71-C-CsboJL._AC_UF1000,1000_QL80_.jpg
 onlineRating: 
 personalRating: 
-topics: []
+topics:
 ---
 Links:: [[My Books]]
 

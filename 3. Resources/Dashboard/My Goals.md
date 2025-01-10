@@ -9,6 +9,9 @@ cssclasses:
 Links:: [[Dashboard]]
 
 ---
+**Se vuoi saperne di più in merito a come imposto gli obiettivi su Obsidian, puoi guardare [questo video](https://youtu.be/Z2QrTltxWZg?si=rmsrp_C5sAfM-8QU)**
+
+
 ```meta-bind-button
 label: Add Goal
 icon: goal

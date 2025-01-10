@@ -1,11 +1,11 @@
 ---
 tags:
   - journal/weekly
-week: <%tp.date.now("ww", 0, tp.file.title, "YYYY-ww")%>
-month: <%tp.date.now("MM", 0, tp.file.title, "YYYY-ww")%>
-year: <%tp.date.now("YYYY", 0, tp.file.title, "YYYY-ww")%>
+week: 01
+month: 01
+year: 2024
 ---
-[[<%tp.date.now("[Weekly Review] YYYY-[W]ww", -7, tp.file.title, "YYYY-ww")%>|↶ PREVIOUS WEEK]] ⁝ [[<%tp.date.now("[Monthly Review] YYYY-MM", 0, tp.file.title, "YYYY-ww")%>|THIS MONTH]] ⁝ [[<%tp.date.now("[Weekly Review] YYYY-[W]ww", +7, tp.file.title, "YYYY-ww")%>|FOLLOWING WEEK ↷]]
+[[Weekly Review 2023-W52|↶ PREVIOUS WEEK]] ⁝ [[Monthly Review 2024-01|THIS MONTH]] ⁝ [[Weekly Review 2024-W02|FOLLOWING WEEK ↷]]
 
 ## 🎯 [[My Goals|Obiettivi]]
 
@@ -81,13 +81,13 @@ Quali sono gli impegni più importanti di questa settimana?
 
 | Abitudine        | Lun | Mar | Mer | Gio | Ven | Sab | Dom |     |
 | ---------------- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Esercizio        |     |     |     |     |     |     |     |     |
-| Lettura          |     |     |     |     |     |     |     |     |
-| Meditazione      |     |     |     |     |     |     |     |     |
+| Esercizio        | ✅   |     |     | ✅   |     |     |     |     |
+| Lettura          |     | ✅   |     |     | ✅   |     |     |     |
+| Meditazione      |     | ✅   |     |     |     |     |     |     |
 | Creare contenuti |     |     |     |     |     |     |     |     |
 
 **Fisico**
-- Esercizio fisico (0/5)
+- Esercizio fisico (2/5)
 
 **Mente**
 - Lettura (0/5)

@@ -7,11 +7,11 @@ title:
 year: 
 URL: 
 author: 
-pages: 
-pages-read: 
+pages: 250
+pages-read: 100
 image: 
-onlineRating: 
-personalRating:
+personalRating: 
+topics:
 ---
 Links:: [[My Books]]
 

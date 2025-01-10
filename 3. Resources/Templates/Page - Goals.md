@@ -24,9 +24,53 @@ if(title == "Untitled"){
 }
 
 -%>
+**Se vuoi saperne di più in merito a come imposto gli obiettivi su Obsidian, puoi guardare [questo video](https://youtu.be/Z2QrTltxWZg?si=rmsrp_C5sAfM-8QU)**
 
+## ❓ Domande e risposte
 
-## [[My Projects|Projects]]
+**Perché vuoi raggiungere questo obiettivo?**
+
+- 
+- 
+- 
+
+**Che persona devi essere per raggiungere questo obiettivo?**
+
+- 
+- 
+- 
+
+**Cosa ti spinge a farlo?**
+
+- 
+- 
+- 
+
+**Che regole devi seguire per raggiungere questo obiettivo?**
+
+- 
+- 
+- 
+
+**Quali sono i problemi che potresti riscontare?**
+
+- 
+- 
+- 
+
+**Quali sono le cause che portano ai problemi?**
+
+- 
+- 
+- 
+
+## 🎬 Piano d'azione
+
+- 
+- 
+- 
+
+### [[My Projects|Projects]]
 
 ```dataview
 TABLE deadline AS Deadline, status AS Status, tags AS Tags
@@ -41,4 +85,10 @@ WHERE
 ```
 
 
+
+## 📉 Monitoraggio
+
+- 
+- 
+- 
 
