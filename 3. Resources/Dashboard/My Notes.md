@@ -24,7 +24,7 @@ id: ""
 style: default
 actions:
   - type: templaterCreateNote
-    templateFile: 3. Resources/Templates/Page - Note.md
+    templateFile: 3. Resources/Templates/Page - Note General.md
     folderPath: /
     fileName: ""
     openNote: true
